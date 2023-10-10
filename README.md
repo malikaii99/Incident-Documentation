@@ -10,50 +10,50 @@ Through my studies, I have come to appreciate the pivotal role played by an inci
 
 Review the scenario below.
 
-You’re part of the growing security team at a company for sneaker enthusiasts and collectors. The business is preparing to launch a mobile app that makes it easy for their customers to buy and sell shoes.
+A small U.S. health care clinic specializing in delivering primary-care services experienced a security incident on a Tuesday morning at approximately 9:00 a.m. Several employees reported that they were unable to use their computers to access files like medical records. Business operations shut down because employees were unable to access the files and software needed to do their job.
 
-You are performing a threat model of the application using the PASTA framework. You will go through each of the seven stages of the framework to identify security requirements for the new Sneaker Company app.
+Additionally, employees also reported that a ransom note was displayed on their computers. The ransom note stated that all the company's files were encrypted by an organized group of unethical hackers who are known to target organizations in healthcare and transportation industries. In exchange for restoring access to the encrypted files, the ransom note demanded a large sum of money in exchange for the decryption key. 
 
-First, review the following description of why the sneaker company decided to develop this new app:
-Description: Our application should seamlessly connect sellers and shoppers. It should be easy for users to sign-up, log in, and manage their accounts. Data privacy is a big concern for us. We want users to feel confident that we’re being responsible with their information.
-Buyers should be able to directly message sellers with questions. They should also have the ability to rate sellers to encourage good service. Sales should be clear and quick to process. Users should have several payment options for a smooth checkout process. Proper payment handling is really important because we want to avoid legal issues.
+The attackers were able to gain access to the company's network by using targeted phishing emails, which were sent to several employees of the company. The phishing emails contained a malicious attachment that installed malware on the employee's computer once it was downloaded.
 
-Next, the application development team is involved with the application because they have the most knowledge about the code base and application logic. Your responsibility as a security professional would be to evaluate the application's architecture for security risks.
+Once the attackers gained access, they deployed their ransomware, which encrypted critical files. The company was unable to access critical patient data, causing major disruptions in their business operations. The company was forced to shut down their computer systems and contact several organizations to report the incident and receive technical assistance.
+
 
 
 <h2>Documentation </h2>
 
 <h3> Entry # </h3>
 
-Record the journal entry number.
+I
 
 
 <h3> Date:</h3>
 
-Record the date of the journal entry.
+October 10, 2023
 
 
 <h3> Description </h3>
 
-Provide a brief description about the journal entry.
+Documenting a cybersecurity incident
 
 
 <h3> Tool(s) used </h3>
 
-List any cybersecurity tools that were used.
+None
 
 
-<h3> The 5 W's </h3>
+<h3> Capture the 5 W's of an incident </h3>
 
-Capture the 5 W's of an incident
-
-  - Who caused the incident?
-  - What happened?
-  - When did the incident occur?
-  - Where did the incident happen?
-  - Why did the incident happen?
+  - Who: The incident was caused by an organized group of unethical hackers
+  - What: A ransomware security incident 
+  - When: The incident occurred on Tuesday morning, at approximately 9:00 a.m.
+  - Where: The incident happened at a health care company
+  - Why: The incident occurred due to the infiltration of the company's systems by unethical hackers through a phishing attack. Following successful access, the perpetrators initiated their ransomware on the company's systems, thereby encrypting vital files. The attackers seem to be primarily driven by financial motives, as evidenced by the ransom note they issued, which demanded a substantial sum of money in exchange for the decryption key.
 
 
 <h3> Additional notes </h3>
 
-Include any additional thoughts, questions, or findings.
+ - How could the health care company prevent an incident like this from occurring again?
+ - Should the company pay the ransom to retrieve the decryption key?
+
+
