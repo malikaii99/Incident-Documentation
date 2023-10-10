@@ -1,9 +1,10 @@
-# Incident-Documentation
+# Incident Documentation
 <h1>Description</h1>
 
-In this exercise, I'll engage in applying the Process of Attack Simulation and Threat Analysis (PASTA) threat model framework to assess the safety of a new shopping app before its launch.
+In the context of this activity, I will engage in a comprehensive process involving a thorough examination of the particulars surrounding a security incident. My primary objective will be to meticulously document all relevant aspects of the incident using an incident handler's journal. As I delve into this task, it's important to reflect on the significance of documentation, which I have previously explored during my journey to understand the intricacies of the incident response process.
 
-Threat modeling plays a vital role in ensuring the security of software development, with security teams often employing these models to proactively identify vulnerabilities, mitigating risks before potential malicious exploitation occurs. PASTA, a widely utilized framework, helps in evaluating the risk associated with new applications.
+Through my studies, I have come to appreciate the pivotal role played by an incident handler's journal, as it serves as a meticulously organized repository for recording vital information related to security incidents as they unfold and are effectively managed. This practice not only contributes to maintaining a clear and comprehensive record but also facilitates the continuous improvement of incident response procedures and the broader field of cybersecurity.
+
 
 <h2>Scenario</h2>
 
